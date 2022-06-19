@@ -1,0 +1,32 @@
+_repo: Slavery-and-the-slave-trade-in-Africa_68276
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Stanley, Henry M. (Henry Morton)
+    aliases:
+    - Stanley, Henry Morton, Sir
+    - Rowlands, John
+    - Stanley, H. M. (Henry Morton)
+    birthdate: 1841
+    deathdate: 1904
+    gutenberg_agent_id: '1714'
+    url: http://www.gutenberg.org/2009/agents/1714
+    wikipedia: https://en.wikipedia.org/wiki/Henry_Morton_Stanley
+description: ''
+gutenberg_issued: '2022-06-10'
+identifiers:
+  gutenberg: '68276'
+language: en
+pgterms:marc905: 20220212164635stanley
+pgterms:marc906: '1893'
+pgterms:marc907: US
+production_note: The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United States :Harper & Brothers,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Slavery and the slave trade in Africa
+url: http://www.gutenberg.org/ebooks/68276
