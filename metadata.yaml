@@ -1,5 +1,8 @@
 _repo: Slavery-and-the-slave-trade-in-Africa_68276
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 68276-h/images/cover.jpg
 creator:
   author:
     agent_name: Stanley, Henry M. (Henry Morton)
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1714
     wikipedia: https://en.wikipedia.org/wiki/Henry_Morton_Stanley
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/68276#Slavery-and-the-slave-trade-in-Africa
 gutenberg_issued: '2022-06-10'
 identifiers:
   gutenberg: '68276'
